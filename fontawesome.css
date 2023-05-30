@@ -1,0 +1,15 @@
+.links {
+    text-align: center;
+}
+
+i:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+i:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
